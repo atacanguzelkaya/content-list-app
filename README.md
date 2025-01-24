@@ -30,22 +30,11 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 1. Projeyi klonlayın:
    git clone https://github.com/atacanguzelkaya/content-list-app.git
 
-2. Proje klasörüne gidin:
-    cd content-list-app
+2. Proje klasörüne gidin: **cd content-list-app**
 
-3. Bağımlılıkları yükleyin:
-    yarn install
+3. Bağımlılıkları yükleyin: **yarn install** veya **npm install**
 
-    veya
-
-    npm install
-
-4. Geliştirme sunucusunu başlatın:
-    yarn dev
-
-    veya
-
-    npm run dev
+4. Geliştirme sunucusunu başlatın: **yarn dev** veya **npm run dev**
 
 Tarayıcıda uygulamayı görmek için http://localhost:3000 adresini ziyaret edin.
 
