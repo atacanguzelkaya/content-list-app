@@ -28,10 +28,10 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 ### Adımlar
 
 1. Projeyi klonlayın:
-   git clone https://github.com/kullanici-adi/icelik-listeleme-uygulamasi.git
+   git clone https://github.com/atacanguzelkaya/content-list-app.git
 
 2. Proje klasörüne gidin:
-    cd icelick-listeleme-uygulamasi
+    cd content-list-app
 
 3. Bağımlılıkları yükleyin:
     yarn install
@@ -50,10 +50,12 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 Tarayıcıda uygulamayı görmek için http://localhost:3000 adresini ziyaret edin.
 
 ## Kullanım
-Kategori Filtreleme: Ana sayfada, içeriklerin kategoriye göre filtrelenebilmesi için bir dropdown veya checkbox kullanılmaktadır. Kullanıcılar, bir kategori seçtiğinde sadece o kategoriye ait içerikler gösterilecektir.
-Başlık Arama: Başlık arama fonksiyonu, kullanıcı yazarken anlık olarak başlıklarda arama yapmanıza imkan verir. Örneğin, "React" yazarsanız yalnızca başlığında "React" geçen içerikler görüntülenir.
-Detay Sayfası: Liste üzerindeki herhangi bir öğeye tıklayarak, o öğeye ait detay sayfasına yönlendirilirsiniz. Detay sayfasında içerik başlığı, açıklaması ve kategorisi gibi bilgiler görüntülenir.
+- **Kategori Filtreleme:** Ana sayfada, içeriklerin kategoriye göre filtrelenebilmesi için bir dropdown veya checkbox kullanılmaktadır. Kullanıcılar, bir kategori seçtiğinde sadece o kategoriye ait içerikler gösterilecektir.
+- **Başlık Arama:** Başlık arama fonksiyonu, kullanıcı yazarken anlık olarak başlıklarda arama yapmanıza imkan verir. Örneğin, "React" yazarsanız yalnızca başlığında "React" geçen içerikler görüntülenir.
+- **Detay Sayfası:** Liste üzerindeki herhangi bir öğeye tıklayarak, o öğeye ait detay sayfasına yönlendirilirsiniz. Detay sayfasında içerik başlığı, açıklaması ve kategorisi gibi bilgiler görüntülenir.
 
 ## Canlı Link
 
 Projenin canlı sürümünü Vercel üzerinden erişebilirsiniz:
+
+https://content-list-app.vercel.app/
